@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Annie Zhou-Bio</title>
+    </head>
+    <dl>
+        <head>Skills</head>
+        <dt>Use of Softwares</dt>
+        <dd>Know Microsofts more, can use excel skillfully.</dd>
+        <dt>Coding Language</dt>
+        <dd>Java, Javascript, and Python. Little Html and R.</dd>
+        </dl>
+    <body>
+        My name is Annie Zhou. I'm major in Applied Data Analytics, and I'm interested in data analyzing. I know how to use most of the microsoft things and have coding experience. I like to watch anime in my spare time. I always listen to music when I'm doing my work. I love cats but I do not have any. I always go to my friend's house and play with her cats.
+    </body>
+    &copy; 2020
+</html>
